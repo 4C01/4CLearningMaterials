@@ -1,7 +1,6 @@
 from flask import Flask, render_template_string, abort, send_from_directory
 import markdown
 import os
-import re
 
 app = Flask(__name__)
 
@@ -21,8 +20,9 @@ HTML_TEMPLATE = """
             <h1>4C01的学习资料</h1>
         </div>
         <div>
-            <a href="#">Trystage</a>
-            <a href="#">项目画廊</a>
+            <a href="http://4c01.cn">4C01</a>
+            <a href="https://trystage.cn">Trystage</a>
+            <a href="https://gallery.trystage.cn">项目画廊</a>
         </div>
     </nav>
     <div class="container">
