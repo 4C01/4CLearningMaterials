@@ -11,7 +11,7 @@ Pls fork this repository and pr your learning materials.
 Thanks for your knowledge!
 
 ## 使用方法 / Usage
-1. 克隆这个仓库 / clone this repository
+1. 克隆这个仓库 / clone this repository (也可以直接下载zip / or download zip)
 ```git clone https://github.com/4C-1337/4C的学习资料.git```
 2. 安装Python / install Python
 3. 双击启动 / run ```start.bat```
