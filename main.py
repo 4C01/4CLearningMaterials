@@ -30,6 +30,7 @@ HTML_TEMPLATE = """
             <h2 onclick="toggleSidebar()">≡</h2>
             <ul>
                 <li><a href="/index.md">首页</a></li>
+                <li><a href="/cooking/index.md">烹饪</a></li>
                 <li><a href="/math/index.md">数学</a></li>
             </ul>
         </aside>
@@ -109,4 +110,4 @@ if __name__ == '__main__':
             f.write("# 欢迎使用Markdown服务器\n\n这是一个示例Markdown文件。")
     
     # 启动Flask应用
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    app.run(debug=True, host='0.0.0.0', port=5071)
