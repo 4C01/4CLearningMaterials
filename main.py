@@ -16,18 +16,16 @@ HTML_TEMPLATE = """
 </head>
 <body>
     <nav class="navbar">
-        <div>
-            <h1>4C01的学习资料</h1>
-        </div>
-        <div>
-            <a href="http://4c01.cn">4C01</a>
-            <a href="https://trystage.cn">Trystage</a>
-            <a href="https://gallery.trystage.cn">项目画廊</a>
+        <h1>4C01的学习资料</h1>
+        <div class="nav-links">
+            <a href="http://4c01.cn" class="nav-text">4C01</span>
+            <a href="https://trystage.cn" class="nav-link desktop-only">Trystage</a>
+            <a href="https://gallery.trystage.cn" class="nav-link desktop-only">项目画廊</a>
         </div>
     </nav>
     <div class="container">
         <aside class="sidebar" id="sidebar">
-            <h2 onclick="toggleSidebar()">≡</h2>
+            <h2 onclick="toggleSidebar()">☰</h2>
             <ul>
                 <li><a href="/index.md">首页</a></li>
                 <li><a href="/cooking/index.md">烹饪</a></li>
