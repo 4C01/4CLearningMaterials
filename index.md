@@ -5,6 +5,6 @@
 [烹饪](cooking/index.md)
 # 学科
 [数学](math/index.md)
-[物理](physics/index.md)
+<!-- [物理](physics/index.md)
 [化学](chemistry/index.md)
-[地理](geography/index.md)
+[地理](geography/index.md) -->
