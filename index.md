@@ -8,3 +8,6 @@
 <!-- [物理](physics/index.md)
 [化学](chemistry/index.md)
 [地理](geography/index.md) -->
+
+# AI相关
+[AI](AI/index.md)
