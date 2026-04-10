@@ -30,6 +30,7 @@ HTML_TEMPLATE = """
                 <li><a href="/index.md">首页</a></li>
                 <li><a href="/cooking/index.md">烹饪</a></li>
                 <li><a href="/math/index.md">数学</a></li>
+                <li><a href="/culture/index.md">文化</a></li>
                 <li><a href="/AI/index.md">AI</a></li>
             </ul>
         </aside>
