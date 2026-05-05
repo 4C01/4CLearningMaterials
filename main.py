@@ -33,6 +33,7 @@ HTML_TEMPLATE = """
                 <li><a href="/physics/index.md">物理</a></li>
                 <li><a href="/culture/index.md">文化</a></li>
                 <li><a href="/AI/index.md">AI</a></li>
+                <li><a href="/other/index.md">Other</a></li>
             </ul>
         </aside>
         <main class="main-content">
