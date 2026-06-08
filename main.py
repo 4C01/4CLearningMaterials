@@ -28,6 +28,7 @@ HTML_TEMPLATE = """
             <h2 onclick="toggleSidebar()">☰</h2>
             <ul>
                 <li><a href="/index.md">首页</a></li>
+                <li><a href="/life/index.md">生活</a></li>
                 <li><a href="/cooking/index.md">烹饪</a></li>
                 <li><a href="/math/index.md">数学</a></li>
                 <li><a href="/physics/index.md">物理</a></li>
