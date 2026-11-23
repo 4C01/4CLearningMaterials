@@ -35,6 +35,7 @@ HTML_TEMPLATE = """
                 <li><a href="/culture/index.md">文化</a></li>
                 <li><a href="/AI/index.md">AI</a></li>
                 <li><a href="/other/index.md">Other</a></li>
+                <li><a href="/mods/index.md">模组服</a></li>
             </ul>
         </aside>
         <main class="main-content">

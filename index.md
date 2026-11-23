@@ -14,3 +14,5 @@
 
 # AI相关
 [AI](AI/index.md)
+# 模组服务器
+[TrystageMods](mods/index.md)
